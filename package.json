@@ -1,0 +1,23 @@
+{
+  "name": "javascript-funcional",
+  "version": "0.1.0",
+  "description": "Projeto destinado a estudos sobre as caracteristicas do paradigma funcional",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higordiego/javascript-funcional.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Functional"
+  ],
+  "author": "Johnson Mauro <johnsonmauro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/higordiego/javascript-funcional/issues"
+  },
+  "homepage": "https://github.com/higordiego/javascript-funcional#readme"
+}
