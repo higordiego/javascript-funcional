@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/higordiego/javascript-funcional/issues"
   },
-  "homepage": "https://github.com/higordiego/javascript-funcional#readme"
+  "homepage": "https://github.com/higordiego/javascript-funcional#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
 }
